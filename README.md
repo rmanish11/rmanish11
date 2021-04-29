@@ -1,7 +1,7 @@
 - 👋 Hi,
 - 👀 I’m interested in Cloud Transformation Projects. My aim is to adopt and adapt to holistic transformation framework that allows me to buid secure cloud solutions
 - 🌱 I’m currently learning Azure DevOPS
-- 💞️ I’m looking to collaborate on DevOPS, CAF, IAC, AKS, TOGAG and CISSP
+- 💞️ I’m looking to collaborate on DevOPS, CAF, IAC, AKS, TOGAF and CISSP
 - 📫 You can reach me on ....
 
 <!---
